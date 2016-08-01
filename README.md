@@ -1,2 +1,2 @@
 # RunLikePersonalEdition
-一个网络框架让你的app想单机版一样畅快的运行
+一个网络框架让你的app像单机版一样畅快的运行
